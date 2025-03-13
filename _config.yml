@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yann Dubois"
+title                    : "Izzatillo Yuldashev"
 title_separator          : "-"
-name                     : &name "Yann Dubois"
-description              : &description "PhD in Machine Learning at Stanford"
-url                      : https://yanndubs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Izzatillo Yuldashev"
+description              : &description "MSc in Computer Engineering"
+url                      : https://iyuldashev.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "YannDubs/YannDubs.github.io"
+repository               : "iyuldashev/iyuldashev.github.io"
 teaser                   : "teaser.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160 # used to compute the reading time of each article
@@ -85,8 +85,8 @@ analytics:
 author:
   name             : *name
   avatar           : "profile.jpg"
-  bio              : "PhD student in Machine Learning"
-  location         : "Stanford, California"
+  bio              : "MSc student in Comupter Engineering"
+  location         : "Busan, South Korea"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=bfM1kzAAAAAJ&hl"
@@ -99,7 +99,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yanndubs"
+  github           : "iyuldashev"
   google_plus      :
   keybase          :
   instagram        :
